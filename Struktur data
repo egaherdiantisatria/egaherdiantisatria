@@ -1,0 +1,11 @@
+struktur data
+1. Functions :
+Fungsinya adalah blok kode yang dapat digunakan kembali untuk melakukan tugas tertentu.
+<br>Fungsi dapat menerima parameter dan mengembalikan nilai.
+2. Modul dan Paket :
+Python memiliki banyak modul bawaan (built-in) yang dapat digunakan untuk berbagai fungsi.
+<br>Modul dan paket eksternal juga dapat diinstal menggunakan manajer paket seperti pip.
+<br>Contoh: import math,from datetime import datetime
+3. Pemrograman Berorientasi Objek (OOP) :
+Python mendukung pemrograman yang berorientasi pada objek, yang memungkinkan Anda membuat dan menggunakan objek.
+<br>Objek memiliki atribut (data) dan metode (fungsi).
